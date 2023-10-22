@@ -2,6 +2,8 @@
 
 Implementation of the Kalman Filtering Attention proposed in <a href="https://arxiv.org/abs/2010.00985">Kalman Filtering Attention for User Behavior Modeling in CTR Prediction</a>
 
+Will use <a href="https://github.com/zziz/kalman-filter">this repository</a> as guidance. Looks like the core of Kalman filtering is just 5 lines of code.
+
 ## Citations
 
 ```bibtex
